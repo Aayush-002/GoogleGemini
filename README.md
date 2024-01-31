@@ -1,1 +1,1 @@
-# This contains the Large Language Model and Large Image Model implemented using Google Gemini 
+ This contains the Large Language Model and Large Image Model implemented using Google Gemini 
